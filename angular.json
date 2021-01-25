@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "Chronmetre"
+  "defaultProject": "Chronmetre",
+  "cli": {
+    "analytics": "d64b3180-a36e-47f7-8470-50c72e4dfcd7"
+  }
 }
